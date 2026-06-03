@@ -1,1 +1,1 @@
-# CodecTechnologies_Project
+# Real-Time Stock Market dashboard
